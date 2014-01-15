@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<wfff kmlVersion="2.0.1"/>
+<Document>
+<Placemark>
+<name><![CDATA[Wireless Network]]></name>
+<description><![CDATA[MAC: 0:18:3f:9a:ec:d1<br>Channel: 6<br>MaxRssi: -86<br>Security: WPA<br>Type: Access Point<br>FirstSeen: 2011-04-14 02:52:16 +0000<br>LastSeen: 2011-04-14 02:52:25 +0000]]></description>
+<Point>
+<coordinates>-122.247632,37.843146,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[2WIRE289RAV]]></name>
+<description><![CDATA[MAC: 0:1f:b3:d6:da:71<br>Channel: 5<br>MaxRssi: -97<br>Security: WPA<br>Type: Access Point<br>FirstSeen: 2011-04-14 02:52:38 +0000<br>LastSeen: 2011-04-14 02:52:38 +0000]]></description>
+<Point>
+<coordinates>-122.247689,37.842816,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[2WIRE570]]></name>
+<description><![CDATA[MAC: 0:1f:b3:d7:b2:69<br>Channel: 7<br>MaxRssi: -70<br>Security: WPA2<br>Type: Access Point<br>FirstSeen: 2011-04-14 02:52:16 +0000<br>LastSeen: 2011-04-14 02:52:38 +0000]]></description>
+<Point>
+<coordinates>-122.247632,37.843146,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[2WIRE493HOME]]></name>
+<description><![CDATA[MAC: 0:21:7c:36:ea:a1<br>Channel: 11<br>MaxRssi: -87<br>Security: WEP<br>Type: Access Point<br>FirstSeen: 2011-04-14 02:52:16 +0000<br>LastSeen: 2011-04-14 02:52:31 +0000]]></description>
+<Point>
+<coordinates>-122.247632,37.843146,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[2WIRE717]]></name>
+<description><![CDATA[MAC: 0:24:56:d8:9d:91<br>Channel: 11<br>MaxRssi: -79<br>Security: WPA<br>Type: Access Point<br>FirstSeen: 2011-04-14 02:52:16 +0000<br>LastSeen: 2011-04-14 02:52:31 +0000]]></description>
+<Point>
+<coordinates>-122.247632,37.843146,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[NETGEAR5]]></name>
+<description><![CDATA[MAC: 0:24:b2:49:8d:a0<br>Channel: 11<br>MaxRssi: -93<br>Security: None<br>Type: Access Point<br>FirstSeen: 2011-04-14 02:52:38 +0000<br>LastSeen: 2011-04-14 02:52:45 +0000]]></description>
+<Point>
+<coordinates>-122.247689,37.842816,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[HOME]]></name>
+<description><![CDATA[MAC: 0:25:bc:8b:85:31<br>Channel: 11<br>MaxRssi: -96<br>Security: WPA2<br>Type: Access Point<br>FirstSeen: 2011-04-14 02:52:27 +0000<br>LastSeen: 2011-04-14 02:52:27 +0000]]></description>
+<Point>
+<coordinates>-122.247632,37.843146,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[2WIRE678]]></name>
+<description><![CDATA[MAC: 34:ef:44:86:f6:e9<br>Channel: 5<br>MaxRssi: -90<br>Security: WPA<br>Type: Access Point<br>FirstSeen: 2011-04-14 02:52:16 +0000<br>LastSeen: 2011-04-14 02:52:43 +0000]]></description>
+<Point>
+<coordinates>-122.247632,37.843146,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[2WIRE010]]></name>
+<description><![CDATA[MAC: c0:83:a:35:74:11<br>Channel: 5<br>MaxRssi: -98<br>Security: WPA2<br>Type: Access Point<br>FirstSeen: 2011-04-14 02:52:16 +0000<br>LastSeen: 2011-04-14 02:52:16 +0000]]></description>
+<Point>
+<coordinates>-122.247620,37.843103,0.000000</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

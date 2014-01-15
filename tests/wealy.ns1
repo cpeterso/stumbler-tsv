@@ -1,0 +1,30 @@
+# $Creator: Wealy Database (www.wardrivers.be) Netstumbler ns1 file generator v0.1
+# $Format: wi-scan summary with extensions
+# Latitude	Longitude	( SSID )	Type	( BSSID )	Time (GMT)	[ SNR Sig Noise ]	# ( Name )	Flags	Channelbits	BcnIntvl
+# $DateGMT: 1970-01-01
+N 50.8414667	E 4.3660500	( bombolong )	ad-hoc	( 02:02:cf:87:27:b5 )	01:00:00 (GMT)	[  76  ]	# ( NULL )	0002	0002	
+N 50.8122667	E 4.4271833	( bombolong )	ad-hoc	( 02:02:b9:87:ad:ce )	01:00:00 (GMT)	[  82  ]	# ( NULL )	0002	0040	
+N 50.8289167	E 4.3441167	( bombolong )	ad-hoc	( 02:06:30:15:36:ba )	01:00:00 (GMT)	[  81  ]	# ( NULL )	0002	0002	
+N 50.8245333	E 4.3666000	( bombolong )	ad-hoc	( 02:06:3f:2f:36:ba )	01:00:00 (GMT)	[  88  ]	# ( NULL )	0002	0002	
+N 50.8299500	E 4.3443333	( bombolong )	ad-hoc	( 02:06:62:4c:36:ba )	01:00:00 (GMT)	[  89  ]	# ( NULL )	0002	0002	
+# $DateGMT: 2003-05-02
+N 50.8392167	E 4.3548333	( bombolong )	ad-hoc	( 02:02:aa:6f:e1:ed )	21:18:32 (GMT)	[ 13 69 56 ]	# (  )	0002	0400	0
+N 50.8392167	E 4.3548333	( bombolong )	???	( 00:02:dd:30:e2:4b )	21:20:19 (GMT)	[ 15 70 55 ]	# ( Prism  I )	0000	0000	0
+# $DateGMT: 2004-04-30
+N 50.8982333	E 4.3530667	( bombolong )	BSS	( 00:80:c8:0a:68:42 )	23:20:31 (GMT)	[  82  ]	# ( NULL )	0421	00000400	
+N 50.8569667	E 4.3976333	( bombolong )	ad-hoc	( 02:02:01:c5:a7:1a )	23:30:13 (GMT)	[  87  ]	# ( NULL )	0002	00000800	
+# $DateGMT: 2004-12-14
+N 50.8434260	E 4.3287270	( bombolong )	IBSS	( 02:00:57:30:E1:D4 )	06:39:37 (GMT)	[ 8 8 0 ]	# ( unknown )	0002	0000	0
+N 50.8443760	E 4.3270340	( bombolong )	IBSS	( 02:02:E1:55:08:D9 )	06:40:07 (GMT)	[ 10 10 0 ]	# ( unknown )	0002	0000	0
+N 50.9084167	E 4.4519383	( bombolong )	IBSS	( 02:02:2D:22:2B:9F )	06:40:16 (GMT)	[ 9 61 0 ]	# ( unknown )	0002	0000	0
+# $DateGMT: 2004-12-16
+N 50.8927467	E 4.4514700	( bombolong )	ad-hoc	( 02:02:9e:e7:ac:5e )	16:05:00 (GMT)	[ 8 57 49 ]	# (  )	0002	0002	0
+# $DateGMT: 2005-01-02
+N 50.8380740	E 4.3525330	( bombolong )	IBSS	( 02:02:68:93:9F:D2 )	17:53:23 (GMT)	[ 31 31 0 ]	# ( unknown )	0002	0000	0
+# $DateGMT: 2009-05-21
+N 50.9136683	E 4.4125333	( bombolong )	ad-hoc	( ca:fe:ca:fe:ca:fe )	06:54:56 (GMT)	[ 95 174 49 ]	# (  )	0002	00000002	100
+# $DateGMT: 2009-06-28
+N 51.1851583	E 4.6727517	( bombolong )	BSS	( 00:18:39:bb:e8:71 )	02:59:43 (GMT)	[ 54 203 149 ]	# (  )	0001	00000008	100
+N 50.6526567	E 5.6005833	( bombolong )	ad-hoc	( 72:2b:11:19:9a:de )	03:02:29 (GMT)	[ 37 86 49 ]	# (  )	0002	00000800	100
+# $DateGMT: 2009-09-14
+N 50.8811933	E 4.4612750	( bombolong )	ad-hoc	( 02:18:41:19:00:04 )	13:24:48 (GMT)	[ 14 63 49 ]	# (  )	0002	00000800	200

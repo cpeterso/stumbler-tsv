@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="red"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon></IconStyle></Style><Style id="yellow"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></Icon></IconStyle></Style><Style id="green"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name>
+<Placemark>
+<name><![CDATA[8778]]></name>
+<description><![CDATA[BSSID: <b>00:1c:df:a4:8b:4b</b><br/>Capabilities: <b>[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]</b><br/>Frequency: <b>2457</b><br/>Timestamp: <b>1337448463000</b><br/>Date: <b>2012-05-19 10:27:43</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-122.0531681086868,37.97661385964602</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[belkin.3cc]]></name>
+<description><![CDATA[BSSID: <b>08:86:3b:17:f3:cc</b><br/>Capabilities: <b>[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]</b><br/>Frequency: <b>2442</b><br/>Timestamp: <b>1337450251000</b><br/>Date: <b>2012-05-19 10:57:31</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-122.24570880644023,37.84526315052062</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[AT&T]]></name>
+<description><![CDATA[BSSID: <b>310410_56988_1312041</b><br/>Capabilities: <b>HSDPA;us</b><br/>Frequency: <b>0</b><br/>Timestamp: <b>1337449876000</b><br/>Date: <b>2012-05-19 10:51:16</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.15883591212332,37.89278854150325</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Home Network]]></name>
+<description><![CDATA[BSSID: <b>00:24:c8:48:33:00</b><br/>Capabilities: <b>[WPA-PSK-TKIP][WPA2-PSK-CCMP][ESS]</b><br/>Frequency: <b>2437</b><br/>Timestamp: <b>1337449224000</b><br/>Date: <b>2012-05-19 10:40:24</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-122.05526048317552,37.98072874546051</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[kevin?s iPhone]]></name>
+<description><![CDATA[BSSID: <b>3e:d0:f8:e0:9b:cf</b><br/>Capabilities: <b>[WPA2-PSK-CCMP][ESS]</b><br/>Frequency: <b>2422</b><br/>Timestamp: <b>1337450204000</b><br/>Date: <b>2012-05-19 10:56:44</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-122.24032267928123,37.85024631768465</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[ResidenceInn_GUEST]]></name>
+<description><![CDATA[BSSID: <b>00:1d:e5:8c:aa:30</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>2447</b><br/>Timestamp: <b>1337446867000</b><br/>Date: <b>2012-05-19 10:01:07</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.053834637627,37.962946370244026</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[AT&T]]></name>
+<description><![CDATA[BSSID: <b>310410_56994_796644</b><br/>Capabilities: <b>HSDPA;us</b><br/>Frequency: <b>0</b><br/>Timestamp: <b>1337450251000</b><br/>Date: <b>2012-05-19 10:57:31</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.24570880644023,37.84526315052062</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[HS]]></name>
+<description><![CDATA[BSSID: <b>74:44:01:35:23:41</b><br/>Capabilities: <b>[WPA2-PSK-CCMP][WPS][ESS]</b><br/>Frequency: <b>2447</b><br/>Timestamp: <b>1337447329000</b><br/>Date: <b>2012-05-19 10:08:49</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-122.054093638435,37.96359902713448</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[4075 5103]]></name>
+<description><![CDATA[BSSID: <b>00:23:a3:83:f9:e0</b><br/>Capabilities: <b>[WEP][ESS]</b><br/>Frequency: <b>2437</b><br/>Timestamp: <b>1337449621000</b><br/>Date: <b>2012-05-19 10:47:01</b>]]></description><styleUrl>#yellow</styleUrl>
+<Point>
+<coordinates>-122.07123161293566,37.89945320226252</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[dlink]]></name>
+<description><![CDATA[BSSID: <b>00:24:01:66:60:0b</b><br/>Capabilities: <b>[WPS][WEP][ESS]</b><br/>Frequency: <b>2412</b><br/>Timestamp: <b>1337449224000</b><br/>Date: <b>2012-05-19 10:40:24</b>]]></description><styleUrl>#yellow</styleUrl>
+<Point>
+<coordinates>-122.05526048317552,37.98072874546051</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Network33]]></name>
+<description><![CDATA[BSSID: <b>00:1b:63:2c:ff:05</b><br/>Capabilities: <b>[WPA-PSK-TKIP][WPA2-PSK-TKIP+CCMP][ESS]</b><br/>Frequency: <b>2462</b><br/>Timestamp: <b>1337450284000</b><br/>Date: <b>2012-05-19 10:58:04</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-122.2467999625951,37.8437558747828</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[2WIRE976]]></name>
+<description><![CDATA[BSSID: <b>00:25:3c:48:20:59</b><br/>Capabilities: <b>[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]</b><br/>Frequency: <b>2422</b><br/>Timestamp: <b>1337450268000</b><br/>Date: <b>2012-05-19 10:57:48</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-122.24605866707861,37.84465386997908</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[AT&T]]></name>
+<description><![CDATA[BSSID: <b>310410_56988_1355331</b><br/>Capabilities: <b>HSDPA;us</b><br/>Frequency: <b>0</b><br/>Timestamp: <b>1337450027000</b><br/>Date: <b>2012-05-19 10:53:47</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.20016397535801,37.867398164235055</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[AT&T]]></name>
+<description><![CDATA[BSSID: <b>310410_56955_5248205</b><br/>Capabilities: <b>HSDPA;us</b><br/>Frequency: <b>0</b><br/>Timestamp: <b>1337450172000</b><br/>Date: <b>2012-05-19 10:56:12</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.23056086339056,37.84918177407235</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[2WIRE945]]></name>
+<description><![CDATA[BSSID: <b>28:16:2e:9c:e0:61</b><br/>Capabilities: <b>[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]</b><br/>Frequency: <b>2452</b><br/>Timestamp: <b>1337450395000</b><br/>Date: <b>2012-05-19 10:59:55</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-122.24687355570495,37.843840112909675</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[AT&T]]></name>
+<description><![CDATA[BSSID: <b>310410_56955_5244633</b><br/>Capabilities: <b>HSDPA;us</b><br/>Frequency: <b>0</b><br/>Timestamp: <b>1337450268000</b><br/>Date: <b>2012-05-19 10:57:48</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.24605866707861,37.84465386997908</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[aircloud-free-wifi]]></name>
+<description><![CDATA[BSSID: <b>00:0b:33:02:0b:51</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>2462</b><br/>Timestamp: <b>1337449351000</b><br/>Date: <b>2012-05-19 10:42:31</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.05800496973097,37.96828794758767</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[AT&T]]></name>
+<description><![CDATA[BSSID: <b>310410_56988_1314792</b><br/>Capabilities: <b>UMTS;us</b><br/>Frequency: <b>0</b><br/>Timestamp: <b>1337449605000</b><br/>Date: <b>2012-05-19 10:46:45</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.07042401656508,37.903767954558134</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[2WIRE098]]></name>
+<description><![CDATA[BSSID: <b>c0:83:0a:e7:f0:11</b><br/>Capabilities: <b>[WEP][ESS]</b><br/>Frequency: <b>2412</b><br/>Timestamp: <b>1337450156000</b><br/>Date: <b>2012-05-19 10:55:56</b>]]></description><styleUrl>#yellow</styleUrl>
+<Point>
+<coordinates>-122.22544882446527,37.84881619736552</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[aircloud-free-wifi]]></name>
+<description><![CDATA[BSSID: <b>00:0b:33:06:20:6d</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>2412</b><br/>Timestamp: <b>1337449319000</b><br/>Date: <b>2012-05-19 10:41:59</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.06382603384554,37.97536286059767</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[AT&T]]></name>
+<description><![CDATA[BSSID: <b>310410_56955_5289985</b><br/>Capabilities: <b>HSDPA;us</b><br/>Frequency: <b>0</b><br/>Timestamp: <b>1337450218000</b><br/>Date: <b>2012-05-19 10:56:58</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.24391750991344,37.84874172415584</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[attwifi]]></name>
+<description><![CDATA[BSSID: <b>00:15:70:4a:14:4f</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>2437</b><br/>Timestamp: <b>1337449001000</b><br/>Date: <b>2012-05-19 10:36:41</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.05349508672953,37.981144823133945</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[AT&T]]></name>
+<description><![CDATA[BSSID: <b>310410_56955_5289982</b><br/>Capabilities: <b>HSDPA;us</b><br/>Frequency: <b>0</b><br/>Timestamp: <b>1337450236000</b><br/>Date: <b>2012-05-19 10:57:16</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.2447639144957,37.84680407959968</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[AT&T]]></name>
+<description><![CDATA[BSSID: <b>310410_56955_5289986</b><br/>Capabilities: <b>UNKNOWN;us</b><br/>Frequency: <b>0</b><br/>Timestamp: <b>1337450204000</b><br/>Date: <b>2012-05-19 10:56:44</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.24032267928123,37.85024631768465</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[ATT448]]></name>
+<description><![CDATA[BSSID: <b>e8:6d:52:9a:b7:30</b><br/>Capabilities: <b>[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]</b><br/>Frequency: <b>2437</b><br/>Timestamp: <b>1337448478000</b><br/>Date: <b>2012-05-19 10:27:58</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>-122.05320515669882,37.97662534285337</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[7250 7524]]></name>
+<description><![CDATA[BSSID: <b>00:0f:cc:ea:80:98</b><br/>Capabilities: <b>[WEP][ESS]</b><br/>Frequency: <b>2437</b><br/>Timestamp: <b>1337448622000</b><br/>Date: <b>2012-05-19 10:30:22</b>]]></description><styleUrl>#yellow</styleUrl>
+<Point>
+<coordinates>-122.05299560911953,37.97779876738787</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[AT&T]]></name>
+<description><![CDATA[BSSID: <b>310410_56988_1315723</b><br/>Capabilities: <b>HSDPA;us</b><br/>Frequency: <b>0</b><br/>Timestamp: <b>1337449526000</b><br/>Date: <b>2012-05-19 10:45:26</b>]]></description><styleUrl>#green</styleUrl>
+<Point>
+<coordinates>-122.06165537238121,37.92222268413752</coordinates></Point>
+</Placemark>
+</Folder>
+</Document></kml>

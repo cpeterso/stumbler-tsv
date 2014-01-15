@@ -1,0 +1,25 @@
+# $Creator: KisMAC NS export version 0.2
+# $Format: wi-scan with extensions
+# Latitude	Longitude	( SSID )	Type	( BSSID )	Time (GMT)	[ SNR Sig Noise ]	# ( Name )	Flags	Channelbits	BcnIntvl
+# $DateGMT: 2013-08-17
+N 43.6477510	W 79.3932570	( One Zone_High Speed Internet )	BSS	( 00:0D:67:00:47:14 )	05:38:01 (GMT)	[ 10 10 0 ]	# ( BelAir Networks Inc. )	0001	0000	0
+N 43.6477510	W 79.3932570	( hhonors )	BSS	( 00:23:EA:7D:15:A0 )	05:38:01 (GMT)	[ 19 19 0 ]	# ( Cisco Systems )	0001	0000	0
+N 43.6477510	W 79.3932570	( One Zone_High Speed Internet )	BSS	( 00:0D:67:00:70:F1 )	05:38:01 (GMT)	[ 11 11 0 ]	# ( BelAir Networks Inc. )	0001	0000	0
+N 43.6465990	W 79.3943710	( My Network #3 Reception )	BSS	( B8:C7:5D:05:C1:61 )	05:38:01 (GMT)	[ 7 7 0 ]	# ( unknown )	0011	0000	0
+N 43.6465990	W 79.3943710	( BP )	BSS	( 98:FC:11:80:8C:9A )	05:36:24 (GMT)	[ 4 4 0 ]	# ( Cisco-Linksys, LLC )	0011	0000	0
+N 43.6477510	W 79.3932570	( DSAIWIRE4 )	BSS	( 74:44:01:96:F9:80 )	05:38:01 (GMT)	[ 13 13 0 ]	# ( unknown )	0011	0000	0
+N 43.6477510	W 79.3932570	( WatrHub Wifi )	BSS	( 58:6D:8F:B4:8A:8F )	05:35:06 (GMT)	[ 6 6 0 ]	# ( unknown )	0011	0000	0
+N 43.6465990	W 79.3943710	( home )	BSS	( 00:1C:B3:AE:07:07 )	05:38:01 (GMT)	[ 8 8 0 ]	# ( APPLE, INC )	0011	0000	0
+N 43.6477510	W 79.3932570	( oneguest )	BSS	( 00:1A:1E:92:3F:01 )	05:36:04 (GMT)	[ 7 7 0 ]	# ( Aruba Networks )	0001	0000	0
+N 43.6477510	W 79.3932570	( BackupDSLWireless )	BSS	( 00:1B:63:2C:B6:9C )	05:38:01 (GMT)	[ 7 7 0 ]	# ( Apple Computer Inc. )	0011	0000	0
+N 43.6465990	W 79.3943710	( One Zone_High Speed Internet )	BSS	( 00:0D:67:00:73:F0 )	05:36:02 (GMT)	[ 5 5 0 ]	# ( BelAir Networks Inc. )	0001	0000	0
+N 43.6465990	W 79.3943710	( One Zone_High Speed Internet )	BSS	( 00:0D:67:00:6D:A3 )	05:37:59 (GMT)	[ 21 21 0 ]	# ( BelAir Networks Inc. )	0001	0000	0
+N 43.6465990	W 79.3943710	( One Zone_High Speed Internet )	BSS	( 00:0D:67:08:06:0D )	05:35:44 (GMT)	[ 3 3 0 ]	# ( BelAir Networks Inc. )	0001	0000	0
+N 43.6465990	W 79.3943710	( One Zone_High Speed Internet )	BSS	( 00:0D:67:00:76:F2 )	05:36:17 (GMT)	[ 4 4 0 ]	# ( BelAir Networks Inc. )	0001	0000	0
+N 43.6465990	W 79.3943710	( BELL197 )	BSS	( C8:CD:72:2F:7D:E2 )	05:36:20 (GMT)	[ 4 4 0 ]	# ( SAGEMCOM )	0011	0000	0
+N 43.6465990	W 79.3943710	( HP8C116C )	IBSS	( 02:2A:2A:6E:AF:6B )	05:36:28 (GMT)	[ 4 4 0 ]	# ( unknown )	0002	0000	0
+N 0.0000000	E 0.0000000	( onestop )	BSS	( 00:1A:1E:92:3F:02 )	05:38:01 (GMT)	[ 6 6 0 ]	# ( Aruba Networks )	0011	0000	0
+N 0.0000000	E 0.0000000	( suite66 )	BSS	( 1C:AF:F7:DE:94:7D )	05:38:01 (GMT)	[ 6 6 0 ]	# ( D-LINK INTERNATIONAL PTE LIMITED )	0011	0000	0
+N 0.0000000	E 0.0000000	( aghq2 )	BSS	( 00:25:BC:8D:93:01 )	05:38:01 (GMT)	[ 4 4 0 ]	# ( Apple, Inc )	0011	0000	0
+N 0.0000000	E 0.0000000	( oneguest )	BSS	( 00:1A:1E:80:F7:01 )	05:38:01 (GMT)	[ 2 2 0 ]	# ( Aruba Networks )	0001	0000	0
+N 0.0000000	E 0.0000000	( hhonors )	BSS	( 00:23:34:3C:CC:30 )	05:38:01 (GMT)	[ 15 15 0 ]	# ( Cisco Systems )	0001	0000	0
